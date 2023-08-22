@@ -151,7 +151,7 @@ body {
         <div class="column">
           <div class="input-box">
             <label>Phone Number</label>
-            <input type="number" placeholder="Enter phone number" required />
+            <input type="number" placeholder="Enter phone Mobile number" required />
           </div>
           <div class="input-box">
             <label>Birth Date</label>
