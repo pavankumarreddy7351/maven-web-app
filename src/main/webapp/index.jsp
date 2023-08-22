@@ -150,7 +150,7 @@ body {
 
         <div class="column">
           <div class="input-box">
-            <label>Phone Number</label>
+            <label>Phone Mobile Number</label>
             <input type="number" placeholder="Enter phone Mobile number" required />
           </div>
           <div class="input-box">
